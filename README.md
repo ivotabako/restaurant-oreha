@@ -1,3 +1,3 @@
 # restaurant-oreha
 
-this project is based on Wes Bos's project.
+this project is based on Wes Bos's project
